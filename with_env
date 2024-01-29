@@ -1,0 +1,4 @@
+#!/bin/bash
+
+export LLVM_SYMBOLIZER_PATH="/opt/homebrew/opt/llvm/bin/llvm-symbolizer"
+$@
